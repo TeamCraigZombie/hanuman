@@ -45,9 +45,9 @@ Full UML Diagram: [Link][4b] <br>
 [4b]:{{site.url}}/assets/downloads/FullUMLDiagram.pdf
 <h2 id="UpdatedDocuments">Updated Documents</h2>
 
-Updated Method: [Link][1c]
-Updated Requirements: [Link][2c]
-Updated Risk Anaysis: [Link][3c]
+Updated Method: [Link][1c] <br>
+Updated Requirements: [Link][2c] <br>
+Updated Risk Anaysis: [Link][3c] <br>
 
 [1c]:{{site.url}}/assets/downloads/UpdatedMethod.pdf
 [2c]:{{site.url}}/assets/downloads/UpdatedReq.pdf

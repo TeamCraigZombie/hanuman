@@ -2,7 +2,7 @@
 layout: post
 title: Assessment 2
 date: 2019-01-19 14:03:00
-tags: media assessment ass1 marks deliverable synergy
+tags: assessments ass2 marks synergy
 author: Isaac
 ---
 
@@ -23,10 +23,10 @@ Updates on Assessment 1 deliverables: [Link][4] <br>
 <h1 id="ExtraMaterials">Extra Materials</h1>
 <h2 id="TestingEvidence">Evidence of Testing</h2>
 
-Evidence of Black Box Testing: [link][1a]
-Evidence of Unit Testing: [link][2a]
-Tracability Matrix: [link][3a]
-Unit Testing Class: [link][4a]
+Evidence of Black Box Testing: [Link][1a] <br>
+Evidence of Unit Testing: [Link][2a] <br>
+Tracability Matrix: [Link][3a] <br>
+Unit Testing Class: [Link][4a] <br>
 
 [1a]:{{site.url}}/assets/downloads/Black-BoxTestingEvidence.pdf
 [2a]:{{site.url}}/assets/downloads/UnitTestingEvidence.pdf
@@ -34,10 +34,10 @@ Unit Testing Class: [link][4a]
 [4a]:{{site.url}}/assets/downloads/GameTest.java
 <h2 id="Charts">Updated Charts</h2>
 
-Updated Gantt Chart: [link][1b] <br>
-Updated Gantt Chart with critical path highlighted: [link][2b]
-Simplified UML Diagram: [link][3b]
-Full UML Diagram: [link][4b]
+Updated Gantt Chart: [Link][1b] <br>
+Updated Gantt Chart with critical path highlighted: [Link][2b] <br>
+Simplified UML Diagram: [Link][3b] <br>
+Full UML Diagram: [Link][4b] <br>
 
 [1b]:{{site.url}}/assets/downloads/UpdatedGanttChart.pdf
 [2b]:{{site.url}}/assets/downloads/UpdatedGanttChart-CriticalPath.pdf
@@ -45,18 +45,18 @@ Full UML Diagram: [link][4b]
 [4b]:{{site.url}}/assets/downloads/FullUMLDiagram.pdf
 <h2 id="UpdatedDocuments">Updated Documents</h2>
 
-Updated Method: [link][1c]
-Updated Requirements: [link][2c]
-Updated Risk Anaysis: [link][3c]
+Updated Method: [Link][1c]
+Updated Requirements: [Link][2c]
+Updated Risk Anaysis: [Link][3c]
 
 [1c]:{{site.url}}/assets/downloads/UpdatedMethod.pdf
 [2c]:{{site.url}}/assets/downloads/UpdatedReq.pdf
 [3c]:{{site.url}}/assets/downloads/UpdatedRisk.pdf
 <h2 id="CraigGame">Software and Manual</h2>
 
-Standalone Game Executable: [link][1d]
-Game Source Code: [link][2d]
-Game Manual: [link][3d] [link][4d]
+Standalone Game Executable: [Link][1d] <br>
+Game Source Code: [Link][2d] <br>
+Game Manual: [Word file][3d] [Pdf file][4d] <br>
 
 [1d]:{{site.url}}/
 [2d]:{{site.url}}/assets/downloads/CraigGame.zip

@@ -26,10 +26,12 @@ Updates on Assessment 1 deliverables: [Link][4] <br>
 Evidence of Black Box Testing: [link][1a]
 Evidence of Unit Testing: [link][2a]
 Tracability Matrix: [link][3a]
+Unit Testing Class: [link][4a]
 
 [1a]:{{site.url}}/assets/downloads/Black-BoxTestingEvidence.pdf
 [2a]:{{site.url}}/assets/downloads/UnitTestingEvidence.pdf
 [3a]:{{site.url}}/assets/downloads/TraceabilityMatrix.pdf
+[4a]:{{site.url}}/assets/downloads/GameTest.java
 <h2 id="Charts">Updated Charts</h2>
 Updated Gantt Chart: [link][1b] <br>
 Updated Gantt Chart with critical path highlighted: [link][2b]
@@ -48,3 +50,11 @@ Updated Risk Anaysis: [link][3c]
 [1c]:{{site.url}}/assets/downloads/UpdatedMethod.pdf
 [2c]:{{site.url}}/assets/downloads/UpdatedReq.pdf
 [3c]:{{site.url}}/assets/downloads/UpdatedRisk.pdf
+<h2 id="CraigGame">Software and Manual</h2>
+Standalone Game Executable: [link][1d]
+Game Source Code: [link][2d]
+Game Manual: [link][3d] [link][4d]
+[1b]:{{site.url}}/
+[2b]:{{site.url}}/
+[3b]:{{site.url}}/
+[4b]:{{site.url}}/

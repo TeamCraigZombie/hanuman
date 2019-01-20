@@ -58,7 +58,7 @@ Standalone Game Executable: [Link][1d] <br>
 Game Source Code: [Link][2d] <br>
 Game Manual: [Word file][3d] [Pdf file][4d] <br>
 
-[1d]:{{site.url}}/
+[1d]:{{site.url}}/assets/downloads/CraigGame.jar
 [2d]:{{site.url}}/assets/downloads/CraigGame.zip
 [3d]:{{site.url}}/assets/downloads/UserManual.docx
 [4d]:{{site.url}}/assets/downloads/UserManual.pdf

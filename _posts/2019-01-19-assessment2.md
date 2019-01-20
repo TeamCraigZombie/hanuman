@@ -21,7 +21,7 @@ Updates on Assessment 1 deliverables: [Link][4] <br>
 [4]:{{site.url}}/assets/downloads/Updates2.pdf
 <hr/>
 <h1 id="ExtraMaterials">Extra Materials</h1>
-<h2 id="TestingEvidence">Evidence of Testing</h1>
+<h2 id="TestingEvidence">Evidence of Testing</h2>
 
 Evidence of Black Box Testing: [link][1a]
 Evidence of Unit Testing: [link][2a]
@@ -33,6 +33,7 @@ Unit Testing Class: [link][4a]
 [3a]:{{site.url}}/assets/downloads/TraceabilityMatrix.pdf
 [4a]:{{site.url}}/assets/downloads/GameTest.java
 <h2 id="Charts">Updated Charts</h2>
+
 Updated Gantt Chart: [link][1b] <br>
 Updated Gantt Chart with critical path highlighted: [link][2b]
 Simplified UML Diagram: [link][3b]
@@ -43,6 +44,7 @@ Full UML Diagram: [link][4b]
 [3b]:{{site.url}}/assets/downloads/SimplifiedUMLDiagram.pdf
 [4b]:{{site.url}}/assets/downloads/FullUMLDiagram.pdf
 <h2 id="UpdatedDocuments">Updated Documents</h2>
+
 Updated Method: [link][1c]
 Updated Requirements: [link][2c]
 Updated Risk Anaysis: [link][3c]
@@ -51,10 +53,12 @@ Updated Risk Anaysis: [link][3c]
 [2c]:{{site.url}}/assets/downloads/UpdatedReq.pdf
 [3c]:{{site.url}}/assets/downloads/UpdatedRisk.pdf
 <h2 id="CraigGame">Software and Manual</h2>
+
 Standalone Game Executable: [link][1d]
 Game Source Code: [link][2d]
 Game Manual: [link][3d] [link][4d]
-[1b]:{{site.url}}/
-[2b]:{{site.url}}/
-[3b]:{{site.url}}/
-[4b]:{{site.url}}/
+
+[1d]:{{site.url}}/
+[2d]:{{site.url}}/assets/downloads/CraigGame.zip
+[3d]:{{site.url}}/assets/downloads/UserManual.docx
+[4d]:{{site.url}}/assets/downloads/UserManual.pdf

@@ -28,7 +28,7 @@ Updated Requirement Testing: [Link][4a] <br>
 
 [1AA]:{{site.url}}/assets/downloads/UpdatedTestReport3.pdf
 [1a]:{{site.url}}/assets/downloads/UpdatedBlackBoxTests3.pdf
-[2a]:{{site.url}}/assets/downloads/UpdatedWhiteBoxTesting3.pdf
+[2a]:{{site.url}}/assets/downloads/UpdateWhiteBoxTesting3.pdf
 [3a]:{{site.url}}/assets/downloads/UpdatedTraceabilityMatrix3.pdf
 [4a]:{{site.url}}/assets/downloads/UpdatedRequirementTesting3.pdf
 <h2 id="Charts">Updated Charts</h2>

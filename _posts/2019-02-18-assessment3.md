@@ -43,10 +43,13 @@ Change Table: [Link][ChangeTable] <br>
 Updated Risk Assessment: [Link][RiskAssessment] <br>
 Updated Method: [Link][Method] <br>
 Updated Requirements: [Link][Reqs] <br>
+User Manual: [docx][Word Manual] [pdf][Pdf Manual]
 
 [RiskAssessment]:{{site.url}}/assets/downloads/UpdatedRiskAssessment3.pdf
 [Method]:{{site.url}}/assets/downloads/UpdatedMethod3.pdf
 [Reqs]:{{site.url}}/assets/downloads/UpdatedRequirements3.pdf
+[Word Manual]:{{site.url}}/assets/downloads/UserManual3.docx
+[Pdf Manual]:{{site.url}}/assets/downloads/UserManual3.pdf
 <h2 id="CraigGame">Software</h2>
 
 [Assessment 3 Github][github]

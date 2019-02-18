@@ -54,7 +54,9 @@ User Manual: [docx][Word Manual] [pdf][Pdf Manual] <br>
 [Pdf Manual]:{{site.url}}/assets/downloads/UserManual3.pdf
 <h2 id="CraigGame">Software</h2>
 Source Code: [.zip][source] <br>
+Executable Jar: [.jar][exe] <br>
 [Assessment 3 Github][github] <br>
 
 [github]:https://github.com/TeamCraigZombie/Assessment3
+[exe]:{{site.url}}/assets/downloads/CraigGame2.jar
 [source]:{{site.url}}/assets/downloads/Assessment3-master.zip

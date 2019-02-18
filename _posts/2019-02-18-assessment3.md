@@ -18,7 +18,6 @@ Architecture Report: [Link][Arch] <br>
 [2]:{{site.url}}/assets/downloads/Impl3.pdf
 [Arch]:{{site.ury}}/assets/downloads/Arch3.pdf
 
-{{site.url}}/assets/downloads/UpdatedRequirements3.pdf
 <hr/>
 <h1 id="ExtraMaterials">Extra Materials</h1>
 <h2 id="TestingEvidence">Evidence of Testing</h2>
@@ -48,7 +47,7 @@ Updated Method: [Link][Method] <br>
 Updated Requirements: [Link][Reqs] <br>
 
 [RiskAssessment]:{{site.url}}/assets/downloads/UpdatedRiskAssessment3.pdf
-[Method]:{{site.url}}/assets/downloads/UpdatedMethod.pdf
+[Method]:{{site.url}}/assets/downloads/UpdatedMethod3.pdf
 [Reqs]:{{site.url}}/assets/downloads/UpdatedRequirements3.pdf
 <h2 id="CraigGame">Software</h2>
 

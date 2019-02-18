@@ -12,11 +12,9 @@ author: Isaac
 
 Change Report: [Link][1] <br>
 Implementation Report: [Link][2] <br>
-Architecture Report: [Link][Arch] <br>
 
 [1]:{{site.url}}/assets/downloads/Change3.pdf
 [2]:{{site.url}}/assets/downloads/Impl3.pdf
-[Arch]:{{site.ury}}/assets/downloads/Arch3.pdf
 
 <hr/>
 <h1 id="ExtraMaterials">Extra Materials</h1>

@@ -35,9 +35,11 @@ Updated Requirement Testing: [Link][4a] <br>
 
 Updated Gantt Chart: [Link][Gantt] <br>
 Change Table: [Link][ChangeTable] <br>
+Updated UML Diagram [Link][UMLDiag] <br>
 
 [Gantt]:{{site.url}}/assets/downloads/UpdatedGanttChart3.pdf
 [ChangeTable]:{{site.url}}/assets/downloads/ChangeTable3.pdf
+[UMLDiag]:{{site.url}}/assets/downloads/UpdatedUML3.pdf
 <h2 id="UpdatedDocuments">Updated Documents</h2>
 
 Updated Risk Assessment: [Link][RiskAssessment] <br>
@@ -51,7 +53,8 @@ User Manual: [docx][Word Manual] [pdf][Pdf Manual]
 [Word Manual]:{{site.url}}/assets/downloads/UserManual3.docx
 [Pdf Manual]:{{site.url}}/assets/downloads/UserManual3.pdf
 <h2 id="CraigGame">Software</h2>
-
+Source Code: [.zip][source]
 [Assessment 3 Github][github]
 
 [github]:https://github.com/TeamCraigZombie/Assessment3
+[source]:{{site.url}}/assets/downloads/Assessment3-master.zip

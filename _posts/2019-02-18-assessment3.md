@@ -45,7 +45,7 @@ Updated UML Diagram [Link][UMLDiag] <br>
 Updated Risk Assessment: [Link][RiskAssessment] <br>
 Updated Method: [Link][Method] <br>
 Updated Requirements: [Link][Reqs] <br>
-User Manual: [docx][Word Manual] [pdf][Pdf Manual]
+User Manual: [docx][Word Manual] [pdf][Pdf Manual] <br>
 
 [RiskAssessment]:{{site.url}}/assets/downloads/UpdatedRiskAssessment3.pdf
 [Method]:{{site.url}}/assets/downloads/UpdatedMethod3.pdf
@@ -53,8 +53,8 @@ User Manual: [docx][Word Manual] [pdf][Pdf Manual]
 [Word Manual]:{{site.url}}/assets/downloads/UserManual3.docx
 [Pdf Manual]:{{site.url}}/assets/downloads/UserManual3.pdf
 <h2 id="CraigGame">Software</h2>
-Source Code: [.zip][source]
-[Assessment 3 Github][github]
+Source Code: [.zip][source] <br>
+[Assessment 3 Github][github] <br>
 
 [github]:https://github.com/TeamCraigZombie/Assessment3
 [source]:{{site.url}}/assets/downloads/Assessment3-master.zip

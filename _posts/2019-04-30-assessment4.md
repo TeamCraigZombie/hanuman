@@ -35,7 +35,6 @@ Traceability Matrix: [Link][6] <br>
 [4]:{{site.url}}/assets/downloads/Assessment4/UpdatedUML4.pdf
 [5]:{{site.url}}/assets/downloads/Assessment4/UpdatedRequirementsTesting4.pdf
 [6]:{{site.url}}/assets/downloads/Assessment4/TraceabilityMatrix4.pdf
-<hr/>
 
 <h1 id="AdditionalMat">Product and Source code:</h1>
 

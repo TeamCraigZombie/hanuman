@@ -20,12 +20,11 @@ Implementation Report: [Link][3b] <br>
 [3b]:{{site.url}}/assets/downloads/Assessment4/Impl4.pdf
 
 <h3 id="SupportingDocs">Supporting Documents</h3>
-<br>
 
 Updated Requirements: [Link][1] <br>
 Black Box Testing: [Link][2] <br>
 White Box testing: [Link][3] <br>
-Updated UML Diagram: [Link][4]
+Updated UML Diagram: [Link][4] <br>
 Updated Requirements Testing: [Link][5] <br>
 Traceability Matrix: [Link][6] <br>
 
@@ -39,7 +38,7 @@ Traceability Matrix: [Link][6] <br>
 <h1 id="AdditionalMat">Product and Source code:</h1>
 
 Executable Jar file: [link][1a] <br>
-Source code: [.zip][2a] [link to github][3a] <br>
+Source code: [.zip file][2a]   [link to github][3a] <br>
 Manual: [.pdf][4a] [.docx][5a]
 
 

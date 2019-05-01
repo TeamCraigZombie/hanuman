@@ -42,8 +42,8 @@ Source code: [.zip file][2a]   [link to github][3a] <br>
 Manual: [.pdf][4a] [.docx][5a]
 
 
-[1a]:{{site.url}}/assets/downloads/Assessment4/desktop-1.0.jar
-[2a]:{{site.url}}/assets/downloads/Assessment4/Assessment4-master.zip
+[1a]:{{site.url}}/assets/downloads/Assessment4/CraigGame3.jar
+[2a]:{{site.url}}/assets/downloads/Assessment4/Assessment4.zip
 [3a]:https://github.com/TeamCraigZombie/Assessment4
 [4a]:{{site.url}}/assets/downloads/Assessment4/UserManual4.pdf
 [5a]:{{site.url}}/assets/downloads/Assessment4/UserManual4.docx
